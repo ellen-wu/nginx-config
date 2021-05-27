@@ -43,7 +43,9 @@ location ~ /down {
 >
 > 4.访问静态文件  
 > http://192.168.0.55/down/t.jpg?md5=1d75ea103407e17c102c853b8f57b294
+>
 > http://192.168.0.55/down/t.jpg?md5=1d75ea103407e17c102c853b8f57b290
+>
 > ![alt 测试结果](./result.jpg "测试结果")
 >
 >
